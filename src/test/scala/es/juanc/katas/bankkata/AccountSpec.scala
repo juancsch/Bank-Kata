@@ -12,7 +12,7 @@ class AccountSpec extends FlatSpec with Matchers with MockFactory {
 		val transactionRepository = mock[TransactionRepository]
 		transactionRepository.addDeposit _ expects 200
 
-		val account = new Account(transactionRepository)
+		val account = Account(transactionRepository)
 		account.deposit(200)
 	}
 
@@ -21,7 +21,7 @@ class AccountSpec extends FlatSpec with Matchers with MockFactory {
 		val transactionRepository = mock[TransactionRepository]
 		transactionRepository.addWithdrawal _ expects 200
 
-		val account = new Account(transactionRepository)
+		val account = Account(transactionRepository)
 		account.withdraw(200)
 	}
 }

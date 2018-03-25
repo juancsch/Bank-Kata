@@ -16,7 +16,7 @@ class StatementPrintFeature extends FlatSpec with Matchers with MockFactory {
 			view printLine "01/04/2014 | 1000.00 | 1000.00"
 		}
 
-		val account = new Account(new TransactionRepository)
+		val account = Account(TransactionRepository())
 
 		account deposit 1000
 		account withdraw 100

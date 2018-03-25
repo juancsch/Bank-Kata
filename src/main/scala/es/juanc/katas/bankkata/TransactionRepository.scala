@@ -1,6 +1,6 @@
 package es.juanc.katas.bankkata
 
-class TransactionRepository {
+case class TransactionRepository() {
 
 	def addDeposit(amount: Int): Unit = throw new UnsupportedOperationException
 
