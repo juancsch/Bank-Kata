@@ -1,10 +1,10 @@
 package es.juanc.katas.bankkata
 
-class Account {
+class Account(val transactionRepository: TransactionRepository) {
 
-	def deposit(amount: Int) = ???
+	def deposit(amount: Int): Unit = transactionRepository.addDeposit(amount)
 
-	def withdraw(amount: Int) = ???
+	def withdraw(amount: Int): Unit = transactionRepository.addWithdrawal(amount)
 
-	def printStatement = ???
+	def printStatement : Unit = ???
 }
