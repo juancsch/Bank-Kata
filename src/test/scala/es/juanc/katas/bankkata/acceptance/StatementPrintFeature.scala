@@ -1,6 +1,6 @@
 package es.juanc.katas.bankkata.acceptance
 
-import es.juanc.katas.bankkata.{Account, TransactionRepository, View}
+import es.juanc.katas.bankkata.{Account, StatementTransactions, TransactionRepository, View}
 import org.scalamock.scalatest.MockFactory
 import org.scalatest.{FlatSpec, Matchers}
 
@@ -16,12 +16,12 @@ class StatementPrintFeature extends FlatSpec with Matchers with MockFactory {
 			view printLine "01/04/2014 | 1000.00 | 1000.00"
 		}
 
-		val account = Account(TransactionRepository())
+		val account = Account(TransactionRepository(), StatementTransactions())
 
 		account deposit 1000
 		account withdraw 100
 		account deposit 500
 
-		account.printStatement
+		account.printStatement()
 	}
 }
