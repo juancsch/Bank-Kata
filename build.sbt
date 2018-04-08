@@ -7,8 +7,8 @@ version := "0.0.1"
 
 /** ********* DEPENDENCIES *****************/
 libraryDependencies ++= Seq(
-  "org.scalatest" %% "scalatest"                   % "3.0.1" % Test,
-  "org.scalamock" %% "scalamock-scalatest-support" % "3.4.2" % Test
+  "org.scalatest" %% "scalatest" % "3.0.4" % Test,
+  "org.scalamock" %% "scalamock" % "4.1.0" % Test
 )
 
 /** ********* COMMANDS ALIASES ******************/
