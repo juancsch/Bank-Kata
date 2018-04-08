@@ -1,10 +1,12 @@
 package es.juanc.katas.bankkata
 
-case class TransactionRepository() {
+case class TransactionRepository(clock: Clock) {
 
-	def addDeposit(amount: Int): Unit = throw new UnsupportedOperationException
+	private var transactions: List[Transaction] = Nil
 
-	def addWithdrawal(amount: Int): Unit = throw new UnsupportedOperationException
+	def addTransactionWith(amount: Int): Unit = {
+		transactions = Transaction(clock.dateAsString, amount) :: transactions
+	}
 
-	def allTransactions: List[Transaction] = throw new UnsupportedOperationException
+	def allTransactions: List[Transaction] = transactions
 }
