@@ -8,11 +8,11 @@ case class StatementPrinter(view: View) {
 	val DECIMAL_FORMATTER = new DecimalFormat("#.00")
 
 	def print(transactions: List[Transaction]): Unit = {
-		printHeader
+		printHeader()
 		printStatementLines(statementLinesFor(transactions))
 	}
 
-	private def printHeader: Unit = {
+	private def printHeader(): Unit = {
 		view printLine STATEMENT_HEADER
 	}
 
@@ -31,7 +31,7 @@ case class StatementPrinter(view: View) {
 						.foreach(statementLine => view printLine statementLine)
 	}
 
-	private def statementLineFor(transaction: Transaction, balance: Int) = {
+	private def statementLineFor(transaction: Transaction, balance: Int): String = {
 		s"${transaction.date} | ${decimalFormatter(transaction.amount)} | ${decimalFormatter(balance)}"
 	}
 
