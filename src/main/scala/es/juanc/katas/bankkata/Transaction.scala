@@ -1,4 +1,4 @@
 package es.juanc.katas.bankkata
 
-case class Transaction(data: String, amount: Int) {
+case class Transaction(date: String, amount: Int) {
 }

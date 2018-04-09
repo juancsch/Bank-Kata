@@ -5,7 +5,7 @@ case class TransactionRepository(clock: Clock) {
 	private var transactions: List[Transaction] = Nil
 
 	def addTransactionWith(amount: Int): Unit = {
-		transactions = Transaction(clock.dateAsString, amount) :: transactions
+		transactions = transactions :+  Transaction(clock.dateAsString, amount)
 	}
 
 	def allTransactions: List[Transaction] = transactions

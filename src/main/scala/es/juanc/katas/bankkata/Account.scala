@@ -1,6 +1,6 @@
 package es.juanc.katas.bankkata
 
-case class Account(transactionRepository: TransactionRepository, statementTransactions: StatementTransactions) {
+case class Account(transactionRepository: TransactionRepository, statementTransactions: StatementPrinter) {
 
 	def deposit(amount: Int): Unit = transactionRepository.addTransactionWith(amount)
 

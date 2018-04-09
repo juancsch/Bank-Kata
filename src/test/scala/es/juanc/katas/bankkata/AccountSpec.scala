@@ -12,7 +12,7 @@ class AccountSpec extends FlatSpec with Matchers with MockFactory {
 		val transactionRepository = mock[TransactionRepository]
 		transactionRepository.addTransactionWith _ expects 200
 
-		val account = Account(transactionRepository, mock[StatementTransactions])
+		val account = Account(transactionRepository, mock[StatementPrinter])
 		account.deposit(200)
 	}
 
@@ -21,7 +21,7 @@ class AccountSpec extends FlatSpec with Matchers with MockFactory {
 		val transactionRepository = mock[TransactionRepository]
 		transactionRepository.addTransactionWith _ expects -200
 
-		val account = Account(transactionRepository, mock[StatementTransactions])
+		val account = Account(transactionRepository, mock[StatementPrinter])
 		account.withdraw(200)
 	}
 
@@ -30,10 +30,10 @@ class AccountSpec extends FlatSpec with Matchers with MockFactory {
 		val transactionRepository = stub[TransactionRepository]
 		(transactionRepository.allTransactions _).when().returns(List(Transaction("", 0)))
 
-		val statementTransactions = mock[StatementTransactions]
-		statementTransactions.print _ expects List(Transaction("", 0))
+		val statementPrinter = mock[StatementPrinter]
+		statementPrinter.print _ expects List(Transaction("", 0))
 
-		val account = Account(transactionRepository, statementTransactions)
+		val account = Account(transactionRepository, statementPrinter)
 		account.printStatement()
 	}
 }
