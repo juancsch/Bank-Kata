@@ -10,10 +10,10 @@ class StatementPrintFeature extends FlatSpec with Matchers with MockFactory {
 
 		val view = mock[View]
 		inSequence {
-			view printLine "DATE | AMOUNT | BALANCE"
-			view printLine "10/04/2014 | 500.00 | 1400.00"
-			view printLine "02/04/2014 | -100.00 | 900.00"
-			view printLine "01/04/2014 | 1000.00 | 1000.00"
+			(view printLine _) expects "DATE | AMOUNT | BALANCE"
+			(view printLine _) expects "10/04/2014 | 500.00 | 1400.00"
+			(view printLine _) expects "02/04/2014 | -100.00 | 900.00"
+			(view printLine _) expects "01/04/2014 | 1000.00 | 1000.00"
 		}
 
 		val clock = stub[Clock]
@@ -21,7 +21,7 @@ class StatementPrintFeature extends FlatSpec with Matchers with MockFactory {
 		(clock.dateAsString _).when().returns("02/04/2014").noMoreThanOnce
 		(clock.dateAsString _).when().returns("10/04/2014").noMoreThanOnce
 
-		val account = Account(TransactionRepository(clock), StatementTransactions())
+		val account = Account(TransactionRepository(clock), StatementPrinter(view))
 
 		account deposit 1000
 		account withdraw 100
