@@ -1,0 +1,429 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+10 items
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> /home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/Account$.class
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> /home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/Account.class
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> /home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/Clock.class
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> /home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/StatementPrinter$.class
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> /home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/StatementPrinter.class
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> /home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/Transaction$.class
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> /home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/Transaction.class
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> /home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/TransactionRepository$.class
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> /home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/TransactionRepository.class
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/View.scala -> /home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/View.class
+binary dependencies:
+12 items
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> /home/jcserrano/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> /home/jcserrano/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> /home/jcserrano/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> /home/jcserrano/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> /home/jcserrano/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/View.scala -> /home/jcserrano/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/View.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+7 items
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> /home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> /home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> /home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> /home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> /home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/View.scala
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> /home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> /home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+10 items
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> es.juanc.katas.bankkata.Account
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> es.juanc.katas.bankkata.Account$
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> es.juanc.katas.bankkata.Clock
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> es.juanc.katas.bankkata.StatementPrinter
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> es.juanc.katas.bankkata.StatementPrinter$
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> es.juanc.katas.bankkata.Transaction
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> es.juanc.katas.bankkata.Transaction$
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> es.juanc.katas.bankkata.TransactionRepository
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> es.juanc.katas.bankkata.TransactionRepository$
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/View.scala -> es.juanc.katas.bankkata.View
+used names:
+271 items
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> &&
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> <init>
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> ==
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> A
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> AbstractFunction2
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> Account
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> Any
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> AnyRef
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> Boolean
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> IndexOutOfBoundsException
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> Int
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> Iterator
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> List
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> None
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> Nothing
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> Object
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> Option
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> Predef
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> Product
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> ScalaRunTime
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> Serializable
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> Some
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> StatementPrinter
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> String
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> T
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> T0
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> T1
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> T2
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> Transaction
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> TransactionRepository
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> Tuple2
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> Unit
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> _hashCode
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> _root_
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> _toString
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> addTransactionWith
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> allTransactions
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> amount
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> asInstanceOf
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> bankkata
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> eq
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> es
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> isInstanceOf
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> juanc
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> katas
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> package
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> print
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> runtime
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> scala
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> statementTransactions
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> toString
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> transactionRepository
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> typedProductIterator
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> unary_-
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> ||
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> <init>
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> AnyRef
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> Clock
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> DATE_FORMAT
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> DateTimeFormatter
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> LocalDate
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> Object
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> Predef
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> String
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> bankkata
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> es
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> format
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> java
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> juanc
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> katas
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> now
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> ofPattern
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> scala
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> time
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> today
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> &&
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> +
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> <init>
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> <repeated>
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> ==
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> A
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> AbstractFunction1
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> Any
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> AnyRef
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> B
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> Boolean
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> CanBuildFrom
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> Coll
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> DECIMAL_FORMATTER
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> DecimalFormat
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> Function1
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> IndexOutOfBoundsException
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> Int
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> Iterator
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> List
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> Long
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> None
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> Nothing
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> Object
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> Option
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> Predef
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> Product
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> STATEMENT_HEADER
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> ScalaRunTime
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> Serializable
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> Some
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> StatementPrinter
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> String
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> StringContext
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> T
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> T0
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> That
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> Transaction
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> U
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> Unit
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> View
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> _hashCode
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> _root_
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> _toString
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> amount
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> asInstanceOf
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> balance
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> bankkata
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> canBuildFrom
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> date
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> decimalFormatter
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> eq
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> es
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> foreach
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> format
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> immutable
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> isInstanceOf
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> java
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> juanc
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> katas
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> map
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> package
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> printHeader
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> printLine
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> printStatementLines
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> reverse
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> runtime
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> s
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> scala
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> statementLine
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> statementLineFor
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> statementLines
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> statementLinesFor
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> text
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> toLong
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> toString
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> transaction
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> transactions
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> typedProductIterator
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> view
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> ||
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> &&
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> <init>
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> ==
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> A
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> AbstractFunction2
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> Any
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> AnyRef
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> Boolean
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> IndexOutOfBoundsException
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> Int
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> Iterator
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> None
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> Nothing
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> Object
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> Option
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> Predef
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> Product
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> ScalaRunTime
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> Serializable
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> Some
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> Statics
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> String
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> T
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> T0
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> T1
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> T2
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> Transaction
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> Tuple2
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> _root_
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> _toString
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> amount
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> anyHash
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> asInstanceOf
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> bankkata
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> date
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> eq
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> es
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> finalizeHash
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> isInstanceOf
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> juanc
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> katas
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> mix
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> package
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> runtime
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> scala
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> toString
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> typedProductIterator
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> ||
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> &&
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> :+
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> <init>
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> ==
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> A
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> AbstractFunction1
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> Any
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> AnyRef
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> B
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> Boolean
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> CanBuildFrom
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> Clock
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> Coll
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> IndexOutOfBoundsException
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> Int
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> Iterator
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> List
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> Nil
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> None
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> Nothing
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> Object
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> Option
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> Predef
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> Product
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> ScalaRunTime
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> Serializable
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> Some
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> String
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> T
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> T0
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> That
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> Transaction
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> TransactionRepository
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> Unit
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> _hashCode
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> _root_
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> _toString
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> amount
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> asInstanceOf
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> bankkata
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> canBuildFrom
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> clock
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> collection
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> dateAsString
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> eq
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> es
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> immutable
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> isInstanceOf
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> juanc
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> katas
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> package
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> runtime
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> scala
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> toString
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> transactions
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> transactions_=
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> typedProductIterator
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> ||
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/View.scala -> AnyRef
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/View.scala -> Predef
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/View.scala -> String
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/View.scala -> Unit
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/View.scala -> bankkata
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/View.scala -> es
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/View.scala -> juanc
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/View.scala -> katas
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/View.scala -> scala
+product stamps:
+10 items
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/Account$.class -> lastModified(1523267899000)
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/Account.class -> lastModified(1523267899000)
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/Clock.class -> lastModified(1523212638000)
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/StatementPrinter$.class -> lastModified(1523268607000)
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/StatementPrinter.class -> lastModified(1523268607000)
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/Transaction$.class -> lastModified(1523267897000)
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/Transaction.class -> lastModified(1523267897000)
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/TransactionRepository$.class -> lastModified(1523268607000)
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/TransactionRepository.class -> lastModified(1523268607000)
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/target/scala-2.12/classes/es/juanc/katas/bankkata/View.class -> lastModified(1523212638000)
+source stamps:
+6 items
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> hash(8d749a97f3e7ab6d849da9e32e90cb4c61285c02)
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> hash(38926f9d021dac04ad7e59c147dd8f8a6d73974c)
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> hash(fb51a653e6c1bb84465cad03dbdaa2d1f4045378)
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> hash(d56cbed626ea24b59d95922639cc8af45311dea3)
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> hash(92330fb2c40a62ba09d002fad8c929b4d758b918)
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/View.scala -> hash(a8fc597e4544ab1b2f29120078bc797f4d189abd)
+binary stamps:
+2 items
+/home/jcserrano/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar -> lastModified(1507705630000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1520188418000)
+class names:
+2 items
+/home/jcserrano/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar -> scala.Product
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+6 items
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwqt4ZFAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAjc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwJbEMx3QABm5vdGlmeXNxAH4ADLzZQUt0AAR3YWl0c3EAfgAM3O2bZnQADnByaW50U3RhdGVtZW50c3EAfgAMrkcTrXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMfSE9VXQADSRhc0luc3RhbmNlT2ZzcQB+AAy6ImXtdAAVc3RhdGVtZW50VHJhbnNhY3Rpb25zc3EAfgAMkATzPHQADHByb2R1Y3RBcml0eXNxAH4ADB8HlZp0AAZlcXVhbHNzcQB+AAweZSjsdAAMYXNJbnN0YW5jZU9mc3EAfgAMBR4FeHQADHN5bmNocm9uaXplZHNxAH4ADNGhzmF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMQrl4AHQACGNhbkVxdWFsc3EAfgAMygbuyHQADXByb2R1Y3RQcmVmaXhzcQB+AAy3CvjqdAAJbm90aWZ5QWxsc3EAfgAMuWh7FnQADGlzSW5zdGFuY2VPZnNxAH4ADD4bbP10AAY8aW5pdD5zcQB+AAwUcC+udAAId2l0aGRyYXdzcQB+AAwjjsEMdAACPT1zcQB+AAwUcy2ldAAFY2xvbmVzcQB+AAwA0oQ7dAAGJGluaXQkc3EAfgAMK6btUnQABGNvcHlzcQB+AAz6t/ZsdAAIdG9TdHJpbmdzcQB+AAxF90CGdAACIT1zcQB+AAxWlS3EdAAIZ2V0Q2xhc3NzcQB+AAzDDIaLdAAOY29weSRkZWZhdWx0JDFzcQB+AAw2XRhLdAAVdHJhbnNhY3Rpb25SZXBvc2l0b3J5c3EAfgAMibSRNHQAB2RlcG9zaXRzcQB+AAwaG0HXdAACbmVzcQB+AAxnZwmPdAACZXFzcQB+AAxzxNiBdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMt5ovZ3QAAiMjc3EAfgAMv0vIqnQACGZpbmFsaXplc3EAfgAMoNr1J3QADnByb2R1Y3RFbGVtZW50c3EAfgAMR7HA1HQACGhhc2hDb2Rlc3EAfgAMdfYwkHQAB0FjY291bnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBdeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAfZXMuanVhbmMua2F0YXMuYmFua2thdGEuQWNjb3VudHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB2c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF1MAAlpbmhlcml0ZWRxAH4AXUwAB3BhcmVudHNxAH4AXXhxAH4Ae3NxAH4AdnVxAH4AWAAAAABzcQB+AHZ1cQB+AFgAAAAAc3EAfgB2dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB6dAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB6c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCUc3EAfgCHcQB+AIpzcQB+AItzcQB+AI51cQB+AJEAAAADc3EAfgCTdAAEamF2YXNxAH4Ak3QAAmlvcQB+AJhzcQB+AId0AAdQcm9kdWN0cQB+AI1zcQB+AId0AAZFcXVhbHNxAH4AjXNxAH4Ah3QABk9iamVjdHNxAH4Ai3NxAH4AjnVxAH4AkQAAAANzcQB+AJNxAH4AnnNxAH4Ak3QABGxhbmdxAH4AmHNxAH4Ah3QAA0FueXEAfgCNdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAXZXMuanVhbmMua2F0YXMuYmFua2thdGFzcQB+ALF0AAJlc3NxAH4AsXQADmVzLmp1YW5jLmthdGFzc3EAfgCxdAAIZXMuanVhbmNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWKp14nQdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAWC9ob21lL2pjc2VycmFuby9Ecm9wYm94L3dvcmtzcGFjZS9naXQva2F0YXMuZ2l0L3NjYWxhL0JhbmtLYXRhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSNdJqX8+erbYSdqeMukMtMYShcAg==
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwsJBz1AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwHs9SznQABm5vdGlmeXNxAH4ADM8+C9J0AAR3YWl0c3EAfgAMGnjso3QADSRhc0luc3RhbmNlT2ZzcQB+AAw+vh8IdAAGZXF1YWxzc3EAfgAMXe5CZ3QADGFzSW5zdGFuY2VPZnNxAH4ADAPwu3x0AAxzeW5jaHJvbml6ZWRzcQB+AAxqu2eAdAANJGlzSW5zdGFuY2VPZnNxAH4ADMNBkLd0AAVDbG9ja3NxAH4ADFsSyiF0AAlub3RpZnlBbGxzcQB+AAxrr7sWdAAMaXNJbnN0YW5jZU9mc3EAfgAMyDOcj3QABjxpbml0PnNxAH4ADAqh9Zl0AAI9PXNxAH4ADIO4zPB0AAVjbG9uZXNxAH4ADD8Ccpp0AAh0b1N0cmluZ3NxAH4ADOgItSh0AAIhPXNxAH4ADF5SKT90AAhnZXRDbGFzc3NxAH4ADLFiCeB0AAJuZXNxAH4ADGhdXnF0AAJlcXNxAH4ADLgZaE10AAxkYXRlQXNTdHJpbmdzcQB+AAx9r/TOdAAFdG9kYXlzcQB+AAw+L3HBdAACIyNzcQB+AAzx0aL4dAAIZmluYWxpemVzcQB+AAxiDNxOdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBFeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAdZXMuanVhbmMua2F0YXMuYmFua2thdGEuQ2xvY2t1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBFTAAJaW5oZXJpdGVkcQB+AEVMAAdwYXJlbnRzcQB+AEV4cQB+AGNzcQB+AF51cQB+AEAAAAAAc3EAfgBedXEAfgBAAAAAAHNxAH4AXnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Ae3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfHNxAH4Ab3QAA0FueXNxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHt0AAVzY2FsYXEAfgCCdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAXZXMuanVhbmMua2F0YXMuYmFua2thdGFzcQB+AIx0AAJlc3NxAH4AjHQADmVzLmp1YW5jLmthdGFzc3EAfgCMdAAIZXMuanVhbmNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWKmjE3jdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAWC9ob21lL2pjc2VycmFuby9Ecm9wYm94L3dvcmtzcGFjZS9naXQva2F0YXMuZ2l0L3NjYWxhL0JhbmtLYXRhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ4km+dAh2sBK1+WcFH3Y+KbXOXTA==
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwt6EG+QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAhc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwRiObAXQABm5vdGlmeXNxAH4ADCbC1ml0ABBTVEFURU1FTlRfSEVBREVSc3EAfgAM7D5kenQABHdhaXRzcQB+AAzesxrJdAANJGFzSW5zdGFuY2VPZnNxAH4ADBAZzIF0AAxwcm9kdWN0QXJpdHlzcQB+AAxHhs2RdAAGZXF1YWxzc3EAfgAMf4BJunQADGFzSW5zdGFuY2VPZnNxAH4ADFMzgRh0AAVwcmludHNxAH4ADLyTOOl0AAxzeW5jaHJvbml6ZWRzcQB+AAzyJG5+dAANJGlzSW5zdGFuY2VPZnNxAH4ADOrPRE10AAhjYW5FcXVhbHNxAH4ADAtMBj10AA1wcm9kdWN0UHJlZml4c3EAfgAMxzq0W3QACW5vdGlmeUFsbHNxAH4ADNGNeKR0AAxpc0luc3RhbmNlT2ZzcQB+AAyQI+dGdAAGPGluaXQ+c3EAfgAM1quSTHQAAj09c3EAfgAMQHH6VnQABWNsb25lc3EAfgAMHG7fK3QABiRpbml0JHNxAH4ADLVLkG90ABFERUNJTUFMX0ZPUk1BVFRFUnNxAH4ADL/AE2h0AARjb3B5c3EAfgAMcSjez3QACHRvU3RyaW5nc3EAfgAMt8ioOHQAAiE9c3EAfgAMz5a1Z3QACGdldENsYXNzc3EAfgAMi4lSwXQADmNvcHkkZGVmYXVsdCQxc3EAfgAMqBzGxXQAAm5lc3EAfgAMaYS7KnQAAmVxc3EAfgAMPD4xZHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADCqzcdd0AAIjI3NxAH4ADCRuFKB0AAhmaW5hbGl6ZXNxAH4ADOzM0Kd0AA5wcm9kdWN0RWxlbWVudHNxAH4ADEkgo/N0AAhoYXNoQ29kZXNxAH4ADAjzVkt0AAR2aWV3c3EAfgAMqoDbyHQAEFN0YXRlbWVudFByaW50ZXJzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAoZXMuanVhbmMua2F0YXMuYmFua2thdGEuU3RhdGVtZW50UHJpbnRlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLm5hdGl2ZXNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgByc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFlMAAlpbmhlcml0ZWRxAH4AWUwAB3BhcmVudHNxAH4AWXhxAH4Ad3NxAH4AcnVxAH4AVAAAAABzcQB+AHJ1cQB+AFQAAAAAc3EAfgBydXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB2dAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB2c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCQc3EAfgCDcQB+AIZzcQB+AIdzcQB+AIp1cQB+AI0AAAADc3EAfgCPdAAEamF2YXNxAH4Aj3QAAmlvcQB+AJRzcQB+AIN0AAdQcm9kdWN0cQB+AIlzcQB+AIN0AAZFcXVhbHNxAH4AiXNxAH4Ag3QABk9iamVjdHNxAH4Ah3NxAH4AinVxAH4AjQAAAANzcQB+AI9xAH4AmnNxAH4Aj3QABGxhbmdxAH4AlHNxAH4Ag3QAA0FueXEAfgCJdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAXZXMuanVhbmMua2F0YXMuYmFua2thdGFzcQB+AK10AAJlc3NxAH4ArXQADmVzLmp1YW5jLmthdGFzc3EAfgCtdAAIZXMuanVhbmNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWKp4lqMdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAWC9ob21lL2pjc2VycmFuby9Ecm9wYm94L3dvcmtzcGFjZS9naXQva2F0YXMuZ2l0L3NjYWxhL0JhbmtLYXRhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT7UaZT5sG7hEZcrQPb2qLR9ARTeA==
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwct0/XQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAgc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwOZdX2nQABm5vdGlmeXNxAH4ADNBTR450AAR3YWl0c3EAfgAM52UyXXQAC1RyYW5zYWN0aW9uc3EAfgAMpse/ynQADmNvcHkkZGVmYXVsdCQyc3EAfgAMCo8EQHQADSRhc0luc3RhbmNlT2ZzcQB+AAwgHA1gdAAMcHJvZHVjdEFyaXR5c3EAfgAMpSf3nnQABmVxdWFsc3NxAH4ADJp0KM50AAxhc0luc3RhbmNlT2ZzcQB+AAzV5uF/dAAMc3luY2hyb25pemVkc3EAfgAMxZQAZ3QADSRpc0luc3RhbmNlT2ZzcQB+AAzGQ24EdAAIY2FuRXF1YWxzcQB+AAwlNKIwdAANcHJvZHVjdFByZWZpeHNxAH4ADALdfT50AAlub3RpZnlBbGxzcQB+AAz0pAX+dAAGYW1vdW50c3EAfgAMIcZnhHQADGlzSW5zdGFuY2VPZnNxAH4ADENM8D90AAY8aW5pdD5zcQB+AAxf7C8ldAAEZGF0ZXNxAH4ADIIPgqV0AAI9PXNxAH4ADPBjNf10AAVjbG9uZXNxAH4ADEZV20R0AAYkaW5pdCRzcQB+AAzKY2ZJdAAEY29weXNxAH4ADMZUMHd0AAh0b1N0cmluZ3NxAH4ADGBx2OR0AAIhPXNxAH4ADDTEUX50AAhnZXRDbGFzc3NxAH4ADFIHS5F0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADHfasHd0AAJuZXNxAH4ADMb3JFt0AAJlcXNxAH4ADFfHDct0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAw6SbyhdAACIyNzcQB+AAwVFDOLdAAIZmluYWxpemVzcQB+AAzVYUNTdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAyKdTeFdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAjZXMuanVhbmMua2F0YXMuYmFua2thdGEuVHJhbnNhY3Rpb251cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AcHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBXTAAJaW5oZXJpdGVkcQB+AFdMAAdwYXJlbnRzcQB+AFd4cQB+AHVzcQB+AHB1cQB+AFIAAAAAc3EAfgBwdXEAfgBSAAAAAHNxAH4AcHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdHQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AjnNxAH4AgXEAfgCEc3EAfgCFc3EAfgCIdXEAfgCLAAAAA3NxAH4AjXQABGphdmFzcQB+AI10AAJpb3EAfgCSc3EAfgCBdAAHUHJvZHVjdHEAfgCHc3EAfgCBdAAGRXF1YWxzcQB+AIdzcQB+AIF0AAZPYmplY3RzcQB+AIVzcQB+AIh1cQB+AIsAAAADc3EAfgCNcQB+AJhzcQB+AI10AARsYW5ncQB+AJJzcQB+AIF0AANBbnlxAH4Ah3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAF2VzLmp1YW5jLmthdGFzLmJhbmtrYXRhc3EAfgCrdAACZXNzcQB+AKt0AA5lcy5qdWFuYy5rYXRhc3NxAH4Aq3QACGVzLmp1YW5jc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFiqddrzHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFgvaG9tZS9qY3NlcnJhbm8vRHJvcGJveC93b3Jrc3BhY2UvZ2l0L2thdGFzLmdpdC9zY2FsYS9CYW5rS2F0YS90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU1Wy+1ibqJLWdlZImOcyK9FMR3qM=
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw6F98jAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAgc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwL1+ok3QABm5vdGlmeXNxAH4ADDYReEx0AAR3YWl0c3EAfgAMSsyJ/3QADSRhc0luc3RhbmNlT2ZzcQB+AAwZnbZFdAAMcHJvZHVjdEFyaXR5c3EAfgAMckkpCXQABmVxdWFsc3NxAH4ADIjhVU10AAxhc0luc3RhbmNlT2ZzcQB+AAwb5ybGdAAMc3luY2hyb25pemVkc3EAfgAMEokHVnQADSRpc0luc3RhbmNlT2ZzcQB+AAxyloKddAAIY2FuRXF1YWxzcQB+AAy9z/2edAANcHJvZHVjdFByZWZpeHNxAH4ADB4fSF90AAlub3RpZnlBbGxzcQB+AAxkDKTqdAAMaXNJbnN0YW5jZU9mc3EAfgAMaEiOSXQABjxpbml0PnNxAH4ADOHb3y50AAVjbG9ja3NxAH4ADDIGOCl0AAI9PXNxAH4ADJy7tip0AAVjbG9uZXNxAH4ADLTR5g90AA9hbGxUcmFuc2FjdGlvbnNzcQB+AAwBC+rldAAVVHJhbnNhY3Rpb25SZXBvc2l0b3J5c3EAfgAMX8aT7nQABiRpbml0JHNxAH4ADDSIK790AARjb3B5c3EAfgAM+ksY2nQACHRvU3RyaW5nc3EAfgAMpR2JN3QAAiE9c3EAfgAMFQXQFHQACGdldENsYXNzc3EAfgAM/JfYknQAEmFkZFRyYW5zYWN0aW9uV2l0aHNxAH4ADLnIxWt0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADMOa7iZ0AAJuZXNxAH4ADCzNgi90AAJlcXNxAH4ADFgnb6t0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAyJEjUHdAACIyNzcQB+AAwwsD5ddAAIZmluYWxpemVzcQB+AAx39hA7dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzXDsBgdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBXeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAtZXMuanVhbmMua2F0YXMuYmFua2thdGEuVHJhbnNhY3Rpb25SZXBvc2l0b3J5dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEubmF0aXZlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgB1c3EAfgBwdXEAfgBSAAAAAHNxAH4AcHVxAH4AUgAAAABzcQB+AHB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHR0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI5zcQB+AIFxAH4AhHNxAH4AhXNxAH4AiHVxAH4AiwAAAANzcQB+AI10AARqYXZhc3EAfgCNdAACaW9xAH4AknNxAH4AgXQAB1Byb2R1Y3RxAH4Ah3NxAH4AgXQABkVxdWFsc3EAfgCHc3EAfgCBdAAGT2JqZWN0c3EAfgCFc3EAfgCIdXEAfgCLAAAAA3NxAH4AjXEAfgCYc3EAfgCNdAAEbGFuZ3EAfgCSc3EAfgCBdAADQW55cQB+AId1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABdlcy5qdWFuYy5rYXRhcy5iYW5ra2F0YXNxAH4Aq3QAAmVzc3EAfgCrdAAOZXMuanVhbmMua2F0YXNzcQB+AKt0AAhlcy5qdWFuY3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYqniWox1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABYL2hvbWUvamNzZXJyYW5vL0Ryb3Bib3gvd29ya3NwYWNlL2dpdC9rYXRhcy5naXQvc2NhbGEvQmFua0thdGEvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJIzD7LECmK6CdAC+tjJKbTXWLkY
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/View.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwkLBNngAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw6GSE03QABm5vdGlmeXNxAH4ADHLQpE90AAR3YWl0c3EAfgAM5YQtm3QADSRhc0luc3RhbmNlT2ZzcQB+AAwLw9K2dAAGZXF1YWxzc3EAfgAMkVRbXnQADGFzSW5zdGFuY2VPZnNxAH4ADDCI4ix0AAxzeW5jaHJvbml6ZWRzcQB+AAyW9uYtdAANJGlzSW5zdGFuY2VPZnNxAH4ADDRY3ul0AAlwcmludExpbmVzcQB+AAwQDh1SdAAJbm90aWZ5QWxsc3EAfgAMoNUMxnQABFZpZXdzcQB+AAzKDq/odAAMaXNJbnN0YW5jZU9mc3EAfgAMEXqFbXQAAj09c3EAfgAMZMqVpHQABWNsb25lc3EAfgAMtKIA7XQACHRvU3RyaW5nc3EAfgAMDuKnPXQAAiE9c3EAfgAMmWP7nHQACGdldENsYXNzc3EAfgAMchxNjnQAAm5lc3EAfgAM9FynQHQAAmVxc3EAfgAMSgRQ9XQAAiMjc3EAfgAMgcxgs3QACGZpbmFsaXplc3EAfgAMlUakRnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAXQAHGVzLmp1YW5jLmthdGFzLmJhbmtrYXRhLlZpZXd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAVUcmFpdHVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS5uYXRpdmVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF9zcQB+AFp1cQB+ADwAAAAAc3EAfgBadXEAfgA8AAAAAHNxAH4AWnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Ad3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHNxAH4Aa3QAA0FueXNxAH4Ab3NxAH4AcnVxAH4AdQAAAAJzcQB+AHd0AAVzY2FsYXEAfgB+dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAXZXMuanVhbmMua2F0YXMuYmFua2thdGFzcQB+AIh0AAJlc3NxAH4AiHQADmVzLmp1YW5jLmthdGFzc3EAfgCIdAAIZXMuanVhbmNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWKmjE3jdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAWC9ob21lL2pjc2VycmFuby9Ecm9wYm94L3dvcmtzcGFjZS9naXQva2F0YXMuZ2l0L3NjYWxhL0JhbmtLYXRhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSo/Fl+RUSrGy8pEgB4vHl/TRiavQ==
+external apis:
+0 items
+source infos:
+6 items
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Account.scala -> 
+AAAAAAAAAAA=
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Clock.scala -> 
+AAAAAAAAAAA=
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/StatementPrinter.scala -> 
+AAAAAAAAAAA=
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/Transaction.scala -> 
+AAAAAAAAAAA=
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/TransactionRepository.scala -> 
+AAAAAAAAAAA=
+/home/jcserrano/Dropbox/workspace/git/katas.git/scala/BankKata/src/main/scala/es/juanc/katas/bankkata/View.scala -> 
+AAAAAAAAAAA=
+compilations:
+15 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYajxK191cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWC9ob21lL2pjc2VycmFuby9Ecm9wYm94L3dvcmtzcGFjZS9naXQva2F0YXMuZ2l0L3NjYWxhL0JhbmtLYXRhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYl3KQHt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWC9ob21lL2pjc2VycmFuby9Ecm9wYm94L3dvcmtzcGFjZS9naXQva2F0YXMuZ2l0L3NjYWxhL0JhbmtLYXRhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYoGwBdV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWC9ob21lL2pjc2VycmFuby9Ecm9wYm94L3dvcmtzcGFjZS9naXQva2F0YXMuZ2l0L3NjYWxhL0JhbmtLYXRhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYoHI6hd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWC9ob21lL2pjc2VycmFuby9Ecm9wYm94L3dvcmtzcGFjZS9naXQva2F0YXMuZ2l0L3NjYWxhL0JhbmtLYXRhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYoLUKtx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWC9ob21lL2pjc2VycmFuby9Ecm9wYm94L3dvcmtzcGFjZS9naXQva2F0YXMuZ2l0L3NjYWxhL0JhbmtLYXRhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYqYBK6B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWC9ob21lL2pjc2VycmFuby9Ecm9wYm94L3dvcmtzcGFjZS9naXQva2F0YXMuZ2l0L3NjYWxhL0JhbmtLYXRhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYqYbHP91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWC9ob21lL2pjc2VycmFuby9Ecm9wYm94L3dvcmtzcGFjZS9naXQva2F0YXMuZ2l0L3NjYWxhL0JhbmtLYXRhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYqYbH+N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWC9ob21lL2pjc2VycmFuby9Ecm9wYm94L3dvcmtzcGFjZS9naXQva2F0YXMuZ2l0L3NjYWxhL0JhbmtLYXRhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYqZVwNN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWC9ob21lL2pjc2VycmFuby9Ecm9wYm94L3dvcmtzcGFjZS9naXQva2F0YXMuZ2l0L3NjYWxhL0JhbmtLYXRhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYqZW9bN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWC9ob21lL2pjc2VycmFuby9Ecm9wYm94L3dvcmtzcGFjZS9naXQva2F0YXMuZ2l0L3NjYWxhL0JhbmtLYXRhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYqaMTeN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWC9ob21lL2pjc2VycmFuby9Ecm9wYm94L3dvcmtzcGFjZS9naXQva2F0YXMuZ2l0L3NjYWxhL0JhbmtLYXRhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYqnXa8x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWC9ob21lL2pjc2VycmFuby9Ecm9wYm94L3dvcmtzcGFjZS9naXQva2F0YXMuZ2l0L3NjYWxhL0JhbmtLYXRhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYqnXidB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWC9ob21lL2pjc2VycmFuby9Ecm9wYm94L3dvcmtzcGFjZS9naXQva2F0YXMuZ2l0L3NjYWxhL0JhbmtLYXRhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYqngi+R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWC9ob21lL2pjc2VycmFuby9Ecm9wYm94L3dvcmtzcGFjZS9naXQva2F0YXMuZ2l0L3NjYWxhL0JhbmtLYXRhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYqniWox1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWC9ob21lL2pjc2VycmFuby9Ecm9wYm94L3dvcmtzcGFjZS9naXQva2F0YXMuZ2l0L3NjYWxhL0JhbmtLYXRhL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv

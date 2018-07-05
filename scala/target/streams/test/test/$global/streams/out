@@ -1,0 +1,16 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(es.juanc.katas.bankkata.AccountSpec, org.scalatest.tools.Framework$$anon$1@70a6e3e0, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(es.juanc.katas.bankkata.ClockSpec, org.scalatest.tools.Framework$$anon$1@70a6e3e0, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(es.juanc.katas.bankkata.acceptance.StatementPrintFeature, org.scalatest.tools.Framework$$anon$1@70a6e3e0, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(es.juanc.katas.bankkata.StatementPrinterSpec, org.scalatest.tools.Framework$$anon$1@70a6e3e0, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(es.juanc.katas.bankkata.TransactionRepositorySpec, org.scalatest.tools.Framework$$anon$1@70a6e3e0, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 565 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 8[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 5, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 8, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	es.juanc.katas.bankkata.AccountSpec[0m
+[0m[[0mdebug[0m] [0m	es.juanc.katas.bankkata.StatementPrinterSpec[0m
+[0m[[0mdebug[0m] [0m	es.juanc.katas.bankkata.ClockSpec[0m
+[0m[[0mdebug[0m] [0m	es.juanc.katas.bankkata.acceptance.StatementPrintFeature[0m
+[0m[[0mdebug[0m] [0m	es.juanc.katas.bankkata.TransactionRepositorySpec[0m

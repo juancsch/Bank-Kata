@@ -1,3 +1,5 @@
-/.idea
-/target
-/project
+*.iml
+.idea
+target
+project
+git tnode_modules

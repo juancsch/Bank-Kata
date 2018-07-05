@@ -1,0 +1,14 @@
+[0m[[0minfo[0m] [0m[32mAccountSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mAccount[0m[0m
+[0m[[0minfo[0m] [0m[32m- must store added deposit[0m[0m
+[0m[[0minfo[0m] [0m[32m- must store withdrawal deposit[0m[0m
+[0m[[0minfo[0m] [0m[31m- must print statement with all transaction *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  Unsatisfied expectation:[0m[0m
+[0m[[0minfo[0m] [0m  [0m
+[0m[[0minfo[0m] [0m[31m  Expected:[0m[0m
+[0m[[0minfo[0m] [0m[31m  inAnyOrder {[0m[0m
+[0m[[0minfo[0m] [0m[31m    <stub-3> TransactionRepository.allTransactions() any number of times (never called)[0m[0m
+[0m[[0minfo[0m] [0m[31m    <mock-4> StatementTransactions.print(List(Transaction())) once (never called - UNSATISFIED)[0m[0m
+[0m[[0minfo[0m] [0m[31m  }[0m[0m
+[0m[[0minfo[0m] [0m  [0m
+[0m[[0minfo[0m] [0m[31m  Actual: (AccountSpec.scala:6)[0m[0m

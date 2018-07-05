@@ -1,0 +1,16 @@
+test
+quit
+exit
+onlyTest *.AccountSpec
+testOnly *.AccountSpec
+test
+testOnly *.TransactionRepositorySpec
+sbt compile
+sbt c
+sbt quit
+exit
+test *.Transac*
+testOnly *.Transac*
+test
+testOnly *.StatementPrinterSpec
+test

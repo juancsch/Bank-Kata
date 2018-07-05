@@ -1,0 +1,7 @@
+#Successful Tests
+#Mon Apr 09 12:10:08 CEST 2018
+es.juanc.katas.bankkata.acceptance.StatementPrintFeature=1523268608136
+es.juanc.katas.bankkata.ClockSpec=1523268608210
+es.juanc.katas.bankkata.TransactionRepositorySpec=1523268608204
+es.juanc.katas.bankkata.StatementPrinterSpec=1523268608137
+es.juanc.katas.bankkata.AccountSpec=1523268608137
