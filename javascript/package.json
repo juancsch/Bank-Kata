@@ -1,0 +1,15 @@
+{
+  "name": "bank-account-kata",
+  "version": "0.0.1",
+  "description": "bank account kata in outside-in",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "23.3.0",
+    "standard": "11.0.1"
+  }
+}
