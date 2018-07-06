@@ -1,13 +1,13 @@
-function Account (transactionRepository) {
+function Account ({transactionRepository}) {
 
 	return {
 
 		deposit (amount = 0) {
-			transactionRepository.addDeposit(amount)
+			transactionRepository.addTransactionWith(amount)
 		},
 
 		withdrawal (amount = 0) {
-			transactionRepository.addWithdrawal(amount)
+			transactionRepository.addTransactionWith(-amount)
 		},
 
 		printStatement () {
