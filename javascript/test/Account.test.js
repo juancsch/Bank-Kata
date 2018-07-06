@@ -13,4 +13,16 @@ describe('Account behaviour', () => {
 
 		expect(transactionRepository.addDeposit).toHaveBeenCalledWith(100)
 	})
+
+	test('should store withdrawal deposit', () => {
+
+		const transactionRepository = {
+			addWithdrawal: jest.fn()
+		}
+
+		const account = Account(transactionRepository)
+		account.withdrawal(100)
+
+		expect(transactionRepository.addWithdrawal).toHaveBeenCalledWith(100)
+	})
 })
