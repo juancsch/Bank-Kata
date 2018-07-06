@@ -13,4 +13,5 @@ describe('Account behaviour', () => {
 
 		expect(transactionRepository.addDeposit).toHaveBeenCalledWith(100)
 	})
+	
 })
