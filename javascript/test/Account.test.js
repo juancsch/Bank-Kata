@@ -8,10 +8,9 @@ describe('Account behaviour', () => {
 			addDeposit: jest.fn()
 		}
 
-		const account = Account()
+		const account = Account(transactionRepository)
 		account.deposit(100)
 
 		expect(transactionRepository.addDeposit).toHaveBeenCalledWith(100)
 	})
-	
 })
