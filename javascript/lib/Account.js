@@ -7,7 +7,7 @@ function Account (transactionRepository) {
 		},
 
 		withdrawal (amount = 0) {
-
+			transactionRepository.addWithdrawal(amount)
 		},
 
 		printStatement () {
