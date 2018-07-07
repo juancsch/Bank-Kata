@@ -1,4 +1,4 @@
-function Account ({transactionRepository}) {
+function Account ({transactionRepository, statementPrinter}) {
 
 	return {
 
@@ -11,7 +11,7 @@ function Account ({transactionRepository}) {
 		},
 
 		printStatement () {
-
+			statementPrinter.print(transactionRepository.allTransactions())
 		}
 	}
 }
