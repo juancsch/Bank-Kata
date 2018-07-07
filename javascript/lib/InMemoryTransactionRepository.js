@@ -6,7 +6,7 @@ function InMemoryTransactionRepository () {
 			throw new Error('not implement yet')
 		},
 
-		allTransactionWith () {
+		allTransactions () {
 			throw new Error('not implement yet')
 		}
 	}
