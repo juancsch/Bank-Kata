@@ -25,4 +25,22 @@ describe('Account behaviour', () => {
 
 		expect(transactionRepository.addTransactionWith).toHaveBeenCalledWith(-100)
 	})
+
+	test('should print statement with all transaction', () => {
+
+		const statementPrinterMock = {
+			print: jest.fn()
+		}
+
+		const transactions = [{data: '', amount: 0}]
+		const transactionRepositoryMock = {}
+
+		const account = Account({
+			transactionRepository: transactionRepositoryMock
+		})
+
+		account.printStatement()
+
+		expect(statementPrinterMock.print).toHaveBeenCalledWith(transactions)
+	})
 })
