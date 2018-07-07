@@ -1,5 +1,6 @@
 const Account = require('../lib/Account')
 const TransactionsRepository = require('../lib/InMemoryTransactionRepository')
+const StatementPrinter = require('../lib/StatementPrinter')
 
 describe('Statement print feature', () => {
 
@@ -9,9 +10,10 @@ describe('Statement print feature', () => {
 			printLine: jest.fn()
 		}
 
-		const account = Account(
-			{transactionRepository: TransactionsRepository()}
-		)
+		const account = Account({
+			transactionRepository: TransactionsRepository(),
+			statementPrinter: StatementPrinter()
+		})
 
 		account.deposit(1000)
 		account.withdrawal(100)

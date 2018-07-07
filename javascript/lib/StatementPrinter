@@ -1,0 +1,11 @@
+function StatementPrinter () {
+
+    return {
+
+        print (transactions = []) {
+            throw new Error('not implement yet')
+        }
+    }
+}
+
+module.exports = StatementPrinter
