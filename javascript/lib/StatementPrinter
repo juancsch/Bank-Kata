@@ -1,9 +1,11 @@
-function StatementPrinter () {
+const HEADER = 'DATE | AMOUNT | BALANCE'
+
+function StatementPrinter ({view}) {
 
     return {
 
         print (transactions = []) {
-            throw new Error('not implement yet')
+            view.printLine(HEADER)
         }
     }
 }

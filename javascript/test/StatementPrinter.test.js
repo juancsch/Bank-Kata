@@ -8,7 +8,7 @@ describe('StatementPrinter behaviour', () => {
 			printLine: jest.fn()
 		}
 
-		const statementPrinter = StatementPrinter()
+		const statementPrinter = StatementPrinter({view: viewMock})
 
 		statementPrinter.print([])
 
