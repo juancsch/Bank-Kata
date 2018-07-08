@@ -39,12 +39,12 @@ describe('Account behaviour', () => {
 		}
 
 		const transactions = [{data: '', amount: 0}]
-		const transactionRepositoryMock = {
+		const transactionRepositoryStub = {
 			allTransactions: () => transactions
 		}
 
 		const account = Account({
-			transactionRepository: transactionRepositoryMock,
+			transactionRepository: transactionRepositoryStub,
 			statementPrinter: statementPrinterMock
 		})
 
