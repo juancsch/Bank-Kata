@@ -1,11 +1,34 @@
 const HEADER = 'DATE | AMOUNT | BALANCE'
 
+function printHeader (view) {
+    view.printLine(HEADER)
+}
+
+function formattedLine (transaction, balance) {
+
+    const numberFormatter = number => parseFloat(number).toFixed(2)
+
+    return `${transaction.date} | ${numberFormatter(transaction.amount)} | ${numberFormatter(balance)}`
+}
+
+function printStatement (transactions, view) {
+
+    let balance = 0
+
+    transactions
+        .map(transaction => {
+            balance = balance + transaction.amount
+            return formattedLine(transaction, balance)
+        })
+        .reverse()
+        .forEach(transactionLine => view.printLine(transactionLine))
+}
+
 function StatementPrinter ({view}) {
-
     return {
-
         print (transactions = []) {
-            view.printLine(HEADER)
+            printHeader(view)
+            printStatement(transactions, view)
         }
     }
 }
