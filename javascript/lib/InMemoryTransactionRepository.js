@@ -1,14 +1,18 @@
-function InMemoryTransactionRepository () {
+const Transaction = require('./Transaction')
+
+function InMemoryTransactionRepository ({calendar}) {
+
+	const transactions = []
 
 	return {
 
 		addTransactionWith (amount = 0) {
-			throw new Error('not implement yet')
+			transactions.push(
+				Transaction(calendar.dateAsString(), amount)
+			)
 		},
 
-		allTransactions () {
-			throw new Error('not implement yet')
-		}
+		allTransactions: () => [...transactions]
 	}
 }
 

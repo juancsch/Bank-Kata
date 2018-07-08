@@ -1,0 +1,6 @@
+const Transaction = (date = '', amount = 0) => ({
+    get date () { return date },
+    get amount () { return amount }
+})
+
+module.exports = Transaction

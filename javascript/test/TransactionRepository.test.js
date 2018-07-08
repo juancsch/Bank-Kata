@@ -5,17 +5,17 @@ describe('TransactionRepository behaviour', () => {
 	test('should add a transaction with current date', () => {
 
 		const TODAY = '09/07/2018'
-		const clock = {
-			dateAsString: TODAY
+		const calendarStub = {
+			dateAsString: () => TODAY
 		}
 
-		const transactionRepository = TransactionRepository(clock)
+		const transactionRepository = TransactionRepository({calendar: calendarStub})
 
 		transactionRepository.addTransactionWith(100)
 
 		expect(
 			transactionRepository.allTransactions()
-		).toBe(
+		).toEqual(
 			[{date: TODAY, amount: 100}]
 		)
 	})
