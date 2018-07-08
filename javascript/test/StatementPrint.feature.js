@@ -20,7 +20,7 @@ describe('Statement print feature', () => {
 
 		const account = Account({
 			transactionRepository: TransactionsRepository({calendar: calendarStub}),
-			statementPrinter: StatementPrinter()
+			statementPrinter: StatementPrinter({view: viewMock})
 		})
 
 		account.deposit(1000)
