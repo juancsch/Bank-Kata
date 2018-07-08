@@ -10,11 +10,11 @@ function formatted (date = new Date()) {
 	return [day, month, year].join('/')
 }
 
-function dateAsString () {
-	const today = new Date()
-	return formatted(today)
-}
-
 module.exports = {
-	dateAsString
+	today () {
+		return new Date()
+	},
+	dateAsString () {
+		return formatted(this.today())
+	}
 }

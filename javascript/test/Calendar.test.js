@@ -4,6 +4,8 @@ describe('Calendar behaviour', () => {
 
 	test('should return formatter date for today', () => {
 
-		expect(calendar.dateAsString()).toEqual('08/07/2018')
+		calendar.today = () => new Date(2018, 0, 15)
+
+		expect(calendar.dateAsString()).toEqual('15/01/2018')
 	})
 })
