@@ -1,5 +1,8 @@
 *.iml
 .idea
+
 target
 project
+
 node_modules
+coverage
