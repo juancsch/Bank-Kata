@@ -1,8 +1,14 @@
 *.iml
 .idea
 
-target
-project
+/java/.gradle
+/java/gradle
+/java/build
+/java/gradlew
+/java/gradlew.bat
 
-node_modules
-coverage
+/scala/target
+/scala/project
+
+/javascript/node_modules
+/javascript/coverage
