@@ -1,0 +1,36 @@
+plugins {
+    id 'java'
+    id 'application'
+    id 'groovy'
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_11
+    targetCompatibility = JavaVersion.VERSION_11
+}
+
+version '0.1'
+group 'es.juanc.katas'
+
+repositories {
+    jcenter()
+    mavenCentral()
+}
+
+dependencies {
+    compileOnly 'org.projectlombok:lombok:1.18.16'
+    annotationProcessor 'org.projectlombok:lombok:1.18.16'
+
+    testImplementation 'com.github.stefanbirkner:system-rules:1.19.0'
+    testImplementation 'org.spockframework:spock-core:1.3-groovy-2.5'
+}
+
+application {
+    mainClassName = 'es.juanc.katas.banking.App'
+}
+
+test {
+	testLogging {
+		events "passed", "skipped", "failed"
+	}
+}
